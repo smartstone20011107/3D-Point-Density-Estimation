@@ -1,4 +1,4 @@
-[ICONIP2024] 3D Point Cloud Instance Segmentation Based on Cluster Density Estimation
+[ICONIP2024] 3D Point Cloud Instance Segmentation Based on Cluster Density Estimation. 
 This code could be run on RTX8000 RTX3090 RTX2080TI etc. with CUDA11.x and CUDA 10.X. Below we take RTX3090 environments as an example. You need at least two RTX3090 cards with 24GB.
 
 #Creat Conda Environment
